@@ -1,2 +1,2 @@
 # sample
-first sample repo
+first sample repo "this is update with  Vs code"
